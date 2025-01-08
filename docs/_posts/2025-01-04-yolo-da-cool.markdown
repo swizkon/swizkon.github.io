@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Yolo da cool cat!"
 date:   2025-01-04 19:52:45 +0100
 categories: jekyll update
