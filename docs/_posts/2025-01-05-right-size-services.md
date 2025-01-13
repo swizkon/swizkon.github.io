@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Right size services"
+desc: "It´s the stuff that you dont do"
 date:   2025-01-05 09:42:42 +0100
 categories: architecture
 ---
@@ -14,12 +15,14 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Jekyll also offers powerful support for code snippets:
 
+```
 {% highlight csharp %}
 class MyClass 
 {
   
 }
 {% endhighlight %}
+```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
